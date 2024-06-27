@@ -1,10 +1,10 @@
 #!/bin/bash
-TYPE="retro-terminal"
-THEME="green.css"
-DOMAIN="theme-park.dev"
+TYPE="matrix"
+THEME="matrix_video.css"
+DOMAIN="michaelgermino.github.io"
 SCHEME="https"
 ADD_JS="true"
-JS="custom_text_header.js"
+JS="matrix-code.js"
 DISABLE_THEME="false"
 
 ## FAQ
@@ -55,7 +55,7 @@ fi
 case ${DOMAIN} in
   *"github.io"*)
   echo "Switching to github.io URL style"
-    DOMAIN="${DOMAIN}/theme.park"
+    DOMAIN="${DOMAIN}/"
     ;;
 esac
 

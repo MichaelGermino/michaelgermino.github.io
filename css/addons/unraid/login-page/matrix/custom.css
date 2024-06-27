@@ -200,6 +200,7 @@ body {
 
 #login .angle:after {
     display: none;
+    height: 10px;
 }
 #login .wordmark {
     display: none;
