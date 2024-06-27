@@ -173,7 +173,6 @@ body {
     margin: 0 !important;
     text-transform: uppercase;
     min-width: 300px;
-    height:1px !important;
 }
 
 #login .angle:after {
