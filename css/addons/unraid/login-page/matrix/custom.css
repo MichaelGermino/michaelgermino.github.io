@@ -212,6 +212,7 @@ body {
     padding: 2rem;
     border-radius: 0;
     margin: 0rem 1rem 0rem 1rem;
+    height: 1px !important;
 }
 #login .error {
     animation-name: shake;
